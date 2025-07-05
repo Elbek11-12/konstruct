@@ -555,4 +555,8 @@ h1::after {
   letter-spacing: 0.08em;
   text-align: center;
 }
+
+.test {
+  color: #000;
+}
 /* FOOTER */
